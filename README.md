@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hallo, ich bin Faruk
 
-<!--
-**FaRuK296/FaRuK296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IMS-Schüler an der Alten Kantonsschule Aarau
 
-Here are some ideas to get you started:
+Interesse an Software- und Applikationsentwicklung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Derzeit arbeite ich mit:
+- C#
+- SQL
+- HTML/CSS
+- JavaScript
+  
+Zertifikate:
+- Cambridge English First Certificate (B2)
+
+Kontakt:
+- LinkedIn: www.linkedin.com/in/faruk-hodzic
+
+## Aktuell
+
+Suche ein IMS-Praktikum Applikationsentwicklung ab Sommer 2027
