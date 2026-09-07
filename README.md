@@ -13,8 +13,6 @@ Derzeit arbeite ich mit:
 Zertifikate:
 - Cambridge English First Certificate (B2)
 
-Kontakt:
-- LinkedIn: [www.linkedin.com/in/faruk-hodzic](https://www.linkedin.com/in/faruk-hodzic-76a04b405/)
 
 ## Aktuell
 
